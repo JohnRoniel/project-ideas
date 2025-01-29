@@ -4,11 +4,13 @@
 ### 🛠 Projects:
 
 Node.js:
-- Stock Controller
-- Random Joke API 
+- [ ] 🚧 [Stock Controller](https://github.com/JohnRoniel/stock-controller) 
+- [x] ✔️ [Random Joke API](https://github.com/JohnRoniel/RandomJoke)
 
 Python:
-- Url Shorten
+- [ ] Url Shorten
+- [ ] Text encryption
 
 PHP:
-- Simple Chat Room
+- [ ] Simple Chat Room
+- [ ] Url Shorten
